@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Luis",
+      "lastName": "Orihuela",
+      "email": "luis.orihuela@upeu.edu.pe",
+      "dob": "2023-10-08T05:00:00.000Z",
+      "gender": "male",
+      "education": "Universitario",
+      "company": "Google",
+      "experience": "4",
+      "package": "800",
+      "id": 1
+    },
+    {
+      "firstName": "Luz Maria",
+      "lastName": "Orihuela",
+      "email": "luz@gmail",
+      "dob": "2023-10-11T05:00:00.000Z",
+      "gender": "female",
+      "education": "Universitario",
+      "company": "Izipay",
+      "experience": "5",
+      "package": "20",
+      "id": 2
+    }
+  ]
+}
